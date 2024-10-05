@@ -1,3 +1,3 @@
 # adityanair-demo
 Initial Git Repository
-Author - Aditya M Nair
+Author - Aditya M Nair, VITC
